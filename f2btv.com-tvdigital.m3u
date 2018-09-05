@@ -1,0 +1,71 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://tvthumb.dmpcdn.com/data_img/2014/01/p1a01pmlvj1c4qjv910p11ekn1ob25.png",Channel 2
+http://stream.rs.co.th/ch2-hi/index.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="http://www.sine.tv/images/icon/7hd.png",7 HD[720]
+http://103.77.116.182:8800/tvdigital/7_hd_720p.stream/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="http://www.sine.tv/images/icon/7hd.png",7 HD[480]
+http://103.77.116.182:8800/tvdigital/7_hd_480p.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="http://www.sine.tv/images/icon/3hd.png",3 HD[720]
+http://103.77.116.182:8800/tvdigital/3_hd_720p.stream/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="http://www.sine.tv/images/icon/3hd.png",3 HD[480]
+http://103.77.116.182:8800/tvdigital/3_hd_480p.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="http://www.sine.tv/images/icon/3sd.png",3 SD
+http://103.77.116.182:8800/tvdigital/3_sd_480p.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="http://www.sine.tv/images/icon/3fm.png",3 fm
+http://103.77.116.182:8800/tvdigital/3_family_480p.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="http://www.sine.tv/images/icon/5hd.png",5 HD
+http://103.77.116.182:8800/tvdigital/tv5_hd_720p.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="http://www.sine.tv/images/icon/mcothd.png",mcot HD
+http://103.77.116.182:8800/tvdigital/mcot_hd_720p.stream/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="http://www.sine.tv/images/icon/mcothd.png",mcot [480]
+http://103.77.116.182:8800/tvdigital/mcot_hd_480p.stream/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="http://www.sine.tv/images/icon/mcotfam.png",mcot family
+http://103.77.116.182:8800/tvdigital/mcot_family_480p.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://2.bp.blogspot.com/-bHMU3G5QLXU/WdLYsh7d0HI/AAAAAAAAAGU/_fSEwmfLvvwTIJiJjkYEkn4jhpWHuynJQCLcBGAs/s200/010.png",Amarin tv
+http://103.77.116.182:8800/tvdigital/amarin_tv_hd_480p.stream/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="http://www.sine.tv/images/icon/spring.png",spring news
+http://103.77.116.182:8800/tvdigital/spring_news_480p.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://3.bp.blogspot.com/-OlJHKpyXNFk/WdLYrLkpmyI/AAAAAAAAAF8/XsZhgnEvCxYbWNexzw_eUw_wNbd7mpF5ACLcBGAs/s200/004.png",Workpoint
+http://103.77.116.182:8800/tvdigital/workpoint_tv_480p.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://2.bp.blogspot.com/-7xFojsT7_4s/WdLYr2w97UI/AAAAAAAAAGI/9TgQp_mk4CU9Wiz_OGSvpHtVSKl2HvdwgCLcBGAs/s200/007.png",PPTV
+http://103.77.116.182:8800/tvdigital/pptv_hd_720p.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://2.bp.blogspot.com/-Hc8CbV44Zcw/WdLYr6T8ygI/AAAAAAAAAGM/nB5OU-6fbwcKTlwEvcajlnl_lc17gB34gCLcBGAs/s200/008.png",new tv
+http://103.77.116.182:8800/tvdigital/new_tv_480p.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://2.bp.blogspot.com/-TISTQ8tUqQg/WdLYsm5rqUI/AAAAAAAAAGY/g-7nDEUe_v89_oYbAJMTL4UQKCU9VqB7ACLcBGAs/s200/011.png",Bright tv
+http://103.77.116.182:8800/tvdigital/bright_tv_480p.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://2.bp.blogspot.com/-6OIUSCBfDmc/WdLYshg8ftI/AAAAAAAAAGc/CK2wfuwwtrA97c7VqD9erq_VryoGtvNTgCLcBGAs/s200/012.png",Voice tv
+http://103.77.116.182:8800/tvdigital/voice_tv_480p.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://4.bp.blogspot.com/-mO5rSqm4sBI/WdLYtWR3g6I/AAAAAAAAAGg/TSyiSYaytlkLvI6bU2SIxBgNiqXnB6irgCLcBGAs/s200/013.png",True4u
+http://103.77.116.182:8800/tvdigital/true4u_480p.stream/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://1.bp.blogspot.com/-EgH0WMYn_yk/WdLYtVWmeFI/AAAAAAAAAGk/TBNUrYvLjSwxsja8MRdRnInBrJKVafa7ACLcBGAs/s200/014.png",GMM25
+http://103.77.116.182:8800/tvdigital/gmm25_480p.stream/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",NOW26
+http://103.77.116.191:443/tvdigital/now_480p.stream/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://3.bp.blogspot.com/-x6zz5AhnUgo/WdLYuKY1MLI/AAAAAAAAAGs/-iGjzHjCTVciFJSosPvJcpvOe5Xn0Ue8QCLcBGAs/s200/016.png",CH8
+http://103.77.116.182:8800/tvdigital/8_480p.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://1.bp.blogspot.com/-EXQx5Dd5E9U/WdLYuI86vUI/AAAAAAAAAGw/CBg2Q3TQJFIzZM9V5xf8TdVQJgh5UEksgCLcBGAs/s200/017.png",mono29
+http://103.77.116.182:8800/tvdigital/mono_29_480p.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://4.bp.blogspot.com/-p114ags-grM/WdLYuABkQxI/AAAAAAAAAG0/huooKSpENSsrtJkS8opvxNJQtT4iTCKpwCLcBGAs/s200/018.png",ONE 
+http://103.77.116.182:8800/tvdigital/one_480p.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation tv
+http://103.77.116.182:8800/news/nation_tv_480p.stream/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://www.fwiptv.org/postor/20160906224234ไทยรัฐ%20ทีวี.jpg",Thairath
+http://live.thairath.co.th/trtv2/playlist.m3u8
